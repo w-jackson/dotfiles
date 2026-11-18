@@ -12,7 +12,7 @@ git -> ~/dotfiles/git
 ...
 ```
 
-The package folder for an app should mirror the struture it's config would normally take in the home dir. This means making a `.config/<app-name>` folder in some cases.
+The package folder for an app should mirror the structure its config would normally take in the home directory. This means making a `.config/<app-name>` folder in some cases.
 
 ```text
 ~/.zshrc -> ~/dotfiles/zsh/.zshrc
